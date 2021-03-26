@@ -10,6 +10,10 @@ body {
   margin: 20px 80px;
 }
 
+*:focus {
+  outline: none;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
