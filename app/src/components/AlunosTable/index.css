@@ -10,5 +10,33 @@
 }
 
 .aluno-table th, td {
-  padding: 6px
+  padding: 6px;
+  border: 1px solid lightgray;
+}
+
+.aluno-table button {
+  color: white;
+  background-color: tomato;
+  border-radius: 4px;
+  height: 35px;
+  border: none;
+}
+
+.confirm-header {
+  margin-left: 20px;
+}
+
+.confirm-header span {
+  float: right;
+  color: gray;
+  margin-right: 20px;
+  cursor: pointer;
+}
+
+.confirm-options button {
+  background-color: white;
+  height: 40px;
+  border-radius: 4px;
+  margin-right: 8px;
+  float: right;
 }
