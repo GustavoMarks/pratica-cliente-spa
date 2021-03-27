@@ -22,3 +22,10 @@ code {
 button {
   cursor: pointer;
 }
+
+hr {
+  width: 100%;
+  margin: 20px 0;
+  border-width: 0.5px;
+  border-color: #E8E8E8;
+}

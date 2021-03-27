@@ -1,0 +1,14 @@
+.aluno-table {
+  border: 1px solid lightgray;
+  width: 100%;
+  text-align: left;
+  border-radius: 4px;
+}
+
+.aluno-table thead {
+  background-color: #E8E8E8;
+}
+
+.aluno-table th, td {
+  padding: 6px
+}
